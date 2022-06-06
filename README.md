@@ -11,7 +11,7 @@
 Complete the steps in our docs to be able to complete this step by step setup of Vault with Consul storage.
 
 **Getting Started:**
-[Anjuna Security Nitro Onboarding Tutorial](https://docs.anjuna.io/anjuna-nitro-runtime/anjuna-nitro/latest/getting_started/getting_the_runtime.html)
+[Anjuna Security Nitro Onboarding Tutorial](https://docs.anjuna.io/anjuna-nitro-runtime/anjuna-nitro/latest/getting_started/getting_the_runtime.html) or Register on downloads.anjuna.io, grab your API key, paste your API key into the .env file and run the ./deployment.sh 
 
 # Consul Setup
 **Step 1:**
