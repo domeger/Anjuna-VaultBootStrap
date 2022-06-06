@@ -1,0 +1,14 @@
+SKIP_SETCAP = true
+disable_mlock = true
+
+storage "consul" {
+  address = "192.168.127.254:8500"
+  path    = "vault"
+}
+
+
+listener "tcp" {
+  address = ":8200"	
+  tls_disable = 1
+}
+

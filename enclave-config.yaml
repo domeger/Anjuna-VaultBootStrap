@@ -1,0 +1,3 @@
+version: 1.0
+environment:
+  - VAULT_ADDR=127.0.0.1:8200
