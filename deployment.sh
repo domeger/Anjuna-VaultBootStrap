@@ -135,7 +135,7 @@ clear
 
 echo "Create Log Directory"
 echo "---------------------------"
-sudo mkdir -p /var/log/nitro_enclave
+sudo mkdir -p /var/log/nitro_enclaves
 sleep 2
 echo -ne '>>>>>>>>>>>>>>>>>>>>>>>>> [98%]\r'
 clear
